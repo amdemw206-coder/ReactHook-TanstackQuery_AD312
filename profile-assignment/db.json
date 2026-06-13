@@ -2,8 +2,8 @@
   "profile": {
     "username": "johndoe",
     "email": "john@example.com",
-    "bio": "Just a software developer.",
-    "notifications": false
+    "bio": "Just a software dev.",
+    "notifications": true
   },
   "$schema": "./node_modules/json-server/schema.json"
 }
